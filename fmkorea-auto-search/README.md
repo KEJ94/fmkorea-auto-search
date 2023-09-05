@@ -1,9 +1,10 @@
 ### 프로젝트 생성  
  - node 설치
  - yarn 설치
- - Vue-CLI 설치 (vue 개발 환경을 설정해주는 도구)
+ - Vue-CLI 설치 (Vue 개발 환경을 설정해주는 도구)
  - Vue 프로젝트 생성 ```vue create 프로젝트명```  
-  
+ - 일렉트론 설치 ```vue add electron-builder```
+ - Vuetify 설치 ```vue add vuetify``` (Vue UI 프레임워크)
   
 ### 개발 클라이언트 실행  
  - yarn electron:serve  
