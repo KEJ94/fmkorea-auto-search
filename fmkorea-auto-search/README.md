@@ -13,7 +13,7 @@
  - yarn electron:build  
 
 ### 프록시서버 파일 
- - node server.js  
+ - proxy-server > server.js
 
 ### 개발서버  
  - 웹팩 데브서버로 프록시서버를 세운뒤 접속하면 ```CORS``` 를 피할 수 있음 (정상구동)
