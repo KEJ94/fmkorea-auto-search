@@ -20,7 +20,7 @@
  - 네이버, 11번가, 위메프는 크롤링을 허용하는것으로 확인됨 (쿠팡은 안됨)
  - 치사해서 쿠팡 → 펨코(핫딜) 검색으로 변경 중
 
-### 참고자료  
+### 참고
  - https://diggingfun.tistory.com/225  
  - https://velog.io/@jeong_woo/Vue.js-build시-proxy-설정-axios-설정  
  - https://lifeandit.tistory.com/135  
